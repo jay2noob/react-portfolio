@@ -1,6 +1,6 @@
 {
   "name": "react-portfolio",
-  "homepage": "https://jay2noob.github.io/react-portfolio/",
+  "homepage": "https://safe-coast-53934.herokuapp.com/",
   "version": "0.1.0",
   "private": true,
   "engines": {
@@ -21,9 +21,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
