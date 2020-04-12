@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Resume",
+    "image": "images/resume.jpg",
+    "link": "https://drive.google.com/file/d/195ign-6i_Y_q2HAXm6_l_DBd8zAFEKKp/view?usp=sharing"
+  },
+  {
+    "id": 2,
+    "name": "Project",
+    "image": "images/project-1.jpg",
+    "link": "https://jay2noob.github.io/travel-insights/"
+  },
+  {
+    "id": 3,
+    "name": "Project 2",
+    "image": "images/project-2.jpg",
+    "link": "https://good-deeds-1.herokuapp.com/"
+  },
+  {
+    "id": 4,
+    "name": "Note Taker",
+    "image": "images/note-taker.jpg",
+    "link": "https://notes-taken.herokuapp.com/"
+  },
+  {
+    "id": 5,
+    "name": "Daily Planner",
+    "image": "images/day-planner.jpg",
+    "link": "https://jay2noob.github.io/daily-planner/"
+  },
+  {
+    "id": 6,
+    "name": "Password Generator",
+    "image": "images/passwords.jpg",
+    "link": "https://jay2noob.github.io/password-generator/"
+  },
+  {
+    "id": 7,
+    "name": "What-a-Burger",
+    "image": "images/burger.jpg",
+    "link": "https://what-burger.herokuapp.com/"
+  }
+]
